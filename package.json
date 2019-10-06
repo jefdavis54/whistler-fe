@@ -1,0 +1,25 @@
+{
+  "name": "whistler-fe",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefdavis54/whistler-fe.git"
+  },
+  "author": "Jeff Davis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jefdavis54/whistler-fe/issues"
+  },
+  "homepage": "https://github.com/jefdavis54/whistler-fe#readme",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.0.8",
+    "react": "16.10.2",
+    "react-dom": "16.10.2"
+  }
+}
